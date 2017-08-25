@@ -1,0 +1,7 @@
+[package]
+authors = ["NaotoSuzuki <c0114292a2@edu.teu.ac.jp>"]
+name = "guessing_game"
+version = "0.1.0"
+
+[dependencies]
+rand = ">=0.3.15"
