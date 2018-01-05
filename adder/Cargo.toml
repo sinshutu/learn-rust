@@ -1,0 +1,6 @@
+[package]
+name = "adder"
+version = "0.1.0"
+authors = ["NaotoSuzuki <c0114292a2@edu.teu.ac.jp>"]
+
+[dependencies]
